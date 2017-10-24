@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/robot-den/thinknetica_react_server#readme",
   "dependencies": {
+    "express": "^4.16.2",
     "lodash": "^4.17.4",
     "prop-types": "^15.6.0",
     "react": "^16.0.0",
